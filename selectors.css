@@ -18,7 +18,7 @@ header ul a {
     color: gray;
 }
 
-.disabled a{
+a.disabled{
     color: purple;
 }
 
